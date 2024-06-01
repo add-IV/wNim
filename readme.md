@@ -112,21 +112,21 @@ For Windows XP compatibility, add:
 To compile wNim with the [Tiny C Compiler](https://bellard.org/tcc/) or to add resource files, take a look at https://github.com/khchen/winim/tree/master/tcclib
 
 ## Q & A
-### Q: Why I start this project?
-In the first, I just wanted to write some code to test and prove my winim library.
-I wrote some event handler, some GUI control class, more and more...Finally, it
-become a whole GUI framework now.
+### Q: Why did I start this project?
+At first, I just wanted to write some code to test and prove my Winim library.
+I wrote some event handlers, some GUI control classes, and more. Finally, it
+became a whole GUI framework.
 
-### Q: Why the class and api name look so like wxWidgets?
-English is not my mother tongue, I often have no idea how to name an object or
-a function. So I borrow wxWidgets' names to develop my own framework.
+### Q: Why do the class and API names look so alike wxWidgets?
+English is not my mother tongue. I often have no idea how to name an object or
+a function. So, I borrowed wxWidgets' names to develop my own framework.
 
-### Q: Why not add linux or macOS support?
+### Q: Why not add Linux or macOS support?
 I start from winim. It is just a Windows API module.
 
 ### Q: How is wNim compare to nimx, libui, NiGui etc?
-They are all good GUI librarys. I think wNim is easier to use and produce smaller exe file.
-However, it only support Windows system.
+They are all good GUI libraries. I think wNim is easier to use and produces smaller .exe files.
+However, it only supports Windows.
 
 ## Docs
 * https://khchen.github.io/wNim/wNim.html
